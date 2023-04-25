@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("https://images3.alphacoders.com/278/278449.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
